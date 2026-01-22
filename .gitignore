@@ -1,0 +1,4 @@
+# local_dev
+.env
+__pycache__/
+.vscode/
